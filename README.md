@@ -12,7 +12,7 @@ I'm a passionate student currently practicing Data Science and Machine Learning.
 
 ## Skills
 
-- **Programming Languages:** Python, Sql, ] JavaScript, 
+- **Programming Languages:** Python, Sql, JavaScript, 
 - **Frameworks and Libraries:** Scikit-learn, Tensorflow ,React, Next.js, Tailwind CSS, Framer Motion
 - **Domains:** Data Science, Machine Learning, Full Stack Development, Cloud Computing
 
