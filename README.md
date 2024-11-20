@@ -11,7 +11,7 @@ I'm a passionate student currently practicing Data Science and Machine Learning.
 ## Skills
 
 - **Programming Languages:** Python, Sql, TypeScript, 
-- **Frameworks and Libraries:** Scikit-learn, Tensorflow, Pytorch, Airflow, Spark , Next.js, Tailwind CSS
+- **Frameworks and Libraries:** Scikit-learn, Tensorflow, Pytorch, WandB, Airflow, Spark , Next.js, Tailwind CSS
 - **Domains:** Data Science, Machine Learning, Full Stack Development, Cloud Computing
 
 ## Get in Touch
