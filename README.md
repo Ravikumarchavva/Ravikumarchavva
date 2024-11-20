@@ -10,8 +10,8 @@ I'm a passionate student currently practicing Data Science and Machine Learning.
 
 ## Skills
 
-- **Programming Languages:** Python, Sql, JavaScript, 
-- **Frameworks and Libraries:** Scikit-learn, Tensorflow , Next.js, Tailwind CSS
+- **Programming Languages:** Python, Sql, TypeScript, 
+- **Frameworks and Libraries:** Scikit-learn, Tensorflow, Pytorch, Airflow, Spark , Next.js, Tailwind CSS
 - **Domains:** Data Science, Machine Learning, Full Stack Development, Cloud Computing
 
 ## Get in Touch
@@ -19,5 +19,6 @@ I'm a passionate student currently practicing Data Science and Machine Learning.
 - 📫 [Email me](mailto:ravikumarchavva@outook.com)
 - 💼 [LinkedIn]( https://www.linkedin.com/in/ravikumar-chavva/)
 - 🐦 [Twitter](https://x.com/Ravikumarchavva)
+- 🌱 [Portfolio](https://ravikumarchavva.com/)
 
 Looking forward to connecting and collaborating on exciting projects!
