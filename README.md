@@ -6,7 +6,6 @@ I'm a passionate student currently practicing Data Science and Machine Learning.
 
 - 📚 I'm a final year student focused on Data Science and Machine Learning.
 - 🤖 I love exploring AI and its applications.
-- 🌱 I'm also interested in finance, trading automation, and starting an AI business.
 
 ## Skills
 
