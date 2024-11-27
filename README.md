@@ -20,4 +20,4 @@ I'm a passionate student currently practicing Data Science and Machine Learning.
 - 🐦 [Twitter](https://x.com/Ravikumarchavva)
 - 🌱 [Portfolio](https://ravikumarchavva.com/)
 
-Looking forward to connecting and collaborating on exciting projects!
+Looking forward to connecting and collaborating on data science and machine learning related projects!
